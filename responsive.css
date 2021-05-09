@@ -54,6 +54,11 @@ span.menu-icon {
 display: block;
 padding-top : 21px;
 }  
+  
+ .header-right{
+    display : none;
+    }
+  
 .destination {
 width: 80%;
 margin-bottom: 50px;
