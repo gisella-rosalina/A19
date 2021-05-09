@@ -3,7 +3,9 @@
   heading h2{
     text-align: center;
   }
-  
+  .main {
+        height : auto;
+   }
   .body{
     height: auto;
   }
