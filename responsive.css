@@ -1,6 +1,6 @@
 @media all and (max-width: 1000px){
     
-  heading h2{
+  .heading h2{
     text-align: center;
   }
   .main {
@@ -57,7 +57,7 @@ padding-top : 21px;
   
  .header-right{
     display : none;
-    }
+  }
   
 .destination {
 width: 80%;
